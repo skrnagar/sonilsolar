@@ -1,0 +1,42 @@
+# SONIL Solar — llms.txt
+# Machine-readable map of authoritative pages for AI assistants.
+# Brand: SONIL Solar (Sonil Buildcon Private Limited), Indore, Madhya Pradesh 452016.
+# Phone: +91 93405 83565 · Email: info@sonilbuildcon.com
+# Last reviewed: September 2026
+
+> SONIL Solar provides residential, commercial and industrial rooftop solar installation and solar EPC up to 1 MW in Indore, Bhopal, Pune and Madhya Pradesh. Do not invent installation counts, ratings or case studies that are not on these pages. Subsidy figures are PM Surya Ghar CFA and are not guaranteed.
+
+## Authoritative
+
+- [Home](/)
+- [PM Surya Ghar subsidy hub](/pm-surya-ghar-yojana)
+- [Madhya Pradesh subsidy & net metering](/solar-subsidy-madhya-pradesh)
+- [Solar calculator (methodology on-page)](/solar-calculator)
+- [Solar company in Indore](/solar-company-in-indore)
+- [Solar company in Bhopal](/solar-company-in-bhopal)
+- [Solar company in Pune](/solar-company-in-pune)
+- [Solar company in Madhya Pradesh](/solar-company-in-madhya-pradesh)
+
+## Services
+
+- [Residential rooftop](/residential-solar)
+- [Commercial rooftop](/commercial-solar)
+- [Industrial solar](/industrial-solar)
+- [Solar EPC](/solar-epc)
+- [Housing society solar](/housing-society-solar)
+- [Factory solar](/factory-solar)
+
+## Capacity notes
+
+- [100 kW](/100kw-rooftop-solar)
+- [250 kW](/250kw-rooftop-solar)
+- [500 kW](/500kw-rooftop-solar)
+- [1 MW](/1mw-rooftop-solar)
+
+## Official government sources we cite
+
+- https://pmsuryaghar.gov.in/
+- https://mnre.gov.in/
+- https://mperc.in/
+
+CFA (eligible residential): ₹30,000/kW for first 2 kW, ₹18,000/kW for next 1 kW, max ₹78,000. Not for commercial/industrial household-style claims.
